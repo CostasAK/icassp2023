@@ -1,4 +1,4 @@
 # icassp2023
-Our submission for the 2023 ICASSP.
+Notebook and data associated with our submission for the 2023 ICASSP.
 
 ***Will be made available after publication***
