@@ -1,0 +1,25 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+jupyterlab = "*"
+numpy = "*"
+scipy = "*"
+matplotlib = "*"
+seaborn = "*"
+jupyter-contrib-nbextensions = "*"
+jupyterlab-git = "*"
+pandas = "*"
+tqdm = "*"
+pylint = "*"
+black = "*"
+cvxpy = "*"
+cvxopt = "*"
+pandoc = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.8"
