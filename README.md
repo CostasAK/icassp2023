@@ -2,6 +2,13 @@
 
 Notebook associated with our submission for the 2023 ICASSP.
 
+## Viewing
+
+The notebook can be viewed online by opening it in nbviewer or Google Colab. The integrated notebook viewer of GitHub cannot show the plot, but it will show everything else.
+
+[![Open in nbviewer](https://img.shields.io/static/v1?label&message=Open+in+nbviewer&color=343433&style=for-the-badge&logo=jupyter)](https://nbviewer.org/github/CostasAK/icassp2023/blob/main/crb_sparse_sensing.ipynb)
+[![Open in Colab](https://img.shields.io/static/v1?label&message=Open+in+Colab&color=097ABB&style=for-the-badge&logo=googlecolab)](https://colab.research.google.com/github/CostasAK/icassp2023/blob/main/crb_sparse_sensing.ipynb)
+
 ## Usage
 
 Tested using Pipenv and Jupyter in Visual Studio Code on Ubuntu 20.04.
