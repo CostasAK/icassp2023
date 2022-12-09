@@ -1,4 +1,4 @@
-# icassp2023
+# Sensor Selection for Angle of Arrival Estimation Based on the Two-Target Cramér-Rao Bound
 
 Notebook associated with our submission for the 2023 ICASSP.
 
