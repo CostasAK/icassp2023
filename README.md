@@ -1,5 +1,6 @@
 # Sensor Selection for Angle of Arrival Estimation Based on the Two-Target Cramér-Rao Bound
 
+[<img src="./icassp2023-acceptance-landscape-image.png" align="right" width="428px"/>](https://2023.ieeeicassp.org)
 Notebook associated with our submission for the 2023 ICASSP.
 
 ## Viewing
