@@ -34,7 +34,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
       - name: Minify Action
-        uses: anthonyftwang/minify-action@v1.0.1
+        uses: dra1ex/minify-action@v1.0.3
       - name: Setup Pages
         uses: actions/configure-pages@v3
       - name: Upload artifact
